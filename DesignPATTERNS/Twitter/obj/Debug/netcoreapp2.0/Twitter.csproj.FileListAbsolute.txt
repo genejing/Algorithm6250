@@ -1,0 +1,10 @@
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/bin/Debug/netcoreapp2.0/Twitter.deps.json
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/bin/Debug/netcoreapp2.0/Twitter.runtimeconfig.json
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/bin/Debug/netcoreapp2.0/Twitter.runtimeconfig.dev.json
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/bin/Debug/netcoreapp2.0/Twitter.dll
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/bin/Debug/netcoreapp2.0/Twitter.pdb
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/obj/Debug/netcoreapp2.0/Twitter.csproj.CoreCompileInputs.cache
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/obj/Debug/netcoreapp2.0/Twitter.AssemblyInfoInputs.cache
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/obj/Debug/netcoreapp2.0/Twitter.AssemblyInfo.cs
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/obj/Debug/netcoreapp2.0/Twitter.dll
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/Twitter/obj/Debug/netcoreapp2.0/Twitter.pdb

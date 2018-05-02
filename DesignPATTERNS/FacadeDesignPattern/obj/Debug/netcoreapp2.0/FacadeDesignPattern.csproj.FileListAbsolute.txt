@@ -1,0 +1,10 @@
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/bin/Debug/netcoreapp2.0/FacadeDesignPattern.deps.json
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/bin/Debug/netcoreapp2.0/FacadeDesignPattern.runtimeconfig.json
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/bin/Debug/netcoreapp2.0/FacadeDesignPattern.runtimeconfig.dev.json
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/bin/Debug/netcoreapp2.0/FacadeDesignPattern.dll
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/bin/Debug/netcoreapp2.0/FacadeDesignPattern.pdb
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/obj/Debug/netcoreapp2.0/FacadeDesignPattern.csproj.CoreCompileInputs.cache
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/obj/Debug/netcoreapp2.0/FacadeDesignPattern.AssemblyInfoInputs.cache
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/obj/Debug/netcoreapp2.0/FacadeDesignPattern.AssemblyInfo.cs
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/obj/Debug/netcoreapp2.0/FacadeDesignPattern.dll
+/Users/Ashish/Documents/NEU/Algo_Spring/DesignPATTERNS/FacadeDesignPattern/obj/Debug/netcoreapp2.0/FacadeDesignPattern.pdb
